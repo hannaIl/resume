@@ -116,7 +116,7 @@ googleAnalytics = "UA-177082635-1"
 
     [params.summary]
         enable = true
-        text = "Hi, I'm Hanna, a technical writer with a marketing background from Minsk, Belarus. I've been excercising effective use of words and getting ideas  across for over 8 years, over 4 of them in the technical writer role. On a friendly footing with engineering teams, the docs-as-code toolset, and the common sense."
+        text = "Hi, I'm Hanna, a technical writer with a marketing background from Minsk, Belarus. I've been excercising effective use of words and getting ideas  across for over 8 years, over 4 of them in the technical writer role. On a friendly footing with engineering teams, the common sense, and the docs-as-code tooling."
 
 
     [params.experience]
