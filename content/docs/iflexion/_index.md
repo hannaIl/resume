@@ -16,6 +16,8 @@ Among the pages that have been left as is since 2016:
 
 * **Mobile App Development Service:** [iflexion.com/services/mobile-application-development](https://www.iflexion.com/services/mobile-application-development)
 
+* **IOS App Development:** [iflexion.com/services/ios-app-development](https://www.iflexion.com/services/ios-app-development)
+
 * **Social Networking Solutions:** [iflexion.com/social-networking-software](https://www.iflexion.com/social-networking-software)
 
 * **Media Content Distribution:** [iflexion.com/media-content-distribution](https://www.iflexion.com/media-content-distribution)
