@@ -72,7 +72,7 @@ googleAnalytics = "UA-177082635-1"
 
         [[params.education.list]]
         degree = "Belarus State Economic University (BSEU)"
-        university = "International Business Communications"
+        university = "Linguistic Support of Intercultural Communication"
         dates = "2008 - 2013"
 
     [params.awards]
@@ -95,6 +95,9 @@ googleAnalytics = "UA-177082635-1"
         name = "English"
         level = "Professional"
         [[params.languages.list]]
+        name = "Belarusian"
+        level = "Native"
+        [[params.languages.list]]
         name = "Russian"
         level = "Native"
         [[params.languages.list]]
@@ -116,7 +119,7 @@ googleAnalytics = "UA-177082635-1"
 
     [params.summary]
         enable = true
-        text = "Hi, I'm Hanna, a technical writer with a marketing background from Minsk, Belarus. I've been excercising effective use of words and getting ideas across for over 8 years, over 4 of them in the technical writer role. On a friendly footing with development teams, the common sense, and the docs-as-code tooling."
+        text = "Hi, I’m Hanna, and I have 6+ years of experience in planning and authoring technical documents. I’ve worked as a dedicated writer with an engineering team and as part of a multi-project technical documentation unit in a big game dev company. What I do best is retrieve and help share knowledge through texts for developer and non-developer audiences. I’m comfortable with using the command-line, testing APIs, reading logs, or tweaking some source code."
 
 
     [params.experience]
@@ -126,29 +129,26 @@ googleAnalytics = "UA-177082635-1"
         title = "Technical Writer"
         dates = "Feb 2018 - Present"
         company = "Wargaming.net"
-        details = "Writing developer and user docs to the systems that enable delivery, operation, monetization, and IT infrastructure of the MMO games developed and/or published by [Wargaming.net](https://eu.wargaming.net/en). Projects:"
+        details = "Projects:"
         [[params.experience.list.items]]
-        details = "[Platform Integration Guide](/docs/platform) for third-party games. Gives an overview of Wargaming Platform's capabilities for game managers and provides developers with detailed instructions on how to integrate with the Platform components."
+        details = "Publishing Platform for MMO games (commerce, game distribution, data & player relations management modules): writing and editing integration guides for 3rd-party game developers; cookbooks and user guides for game operation teams."
         [[params.experience.list.items]]
-        details = "Documentation to a [monitoring system](/docs/monitoring-system) for in-house engineering teams."
+        details = "Internal application runtime and container orchestration platform: reviewed and updated user guides for internal developers."
         [[params.experience.list.items]]
-        details = "An [all-in-one user guide](/docs/operation) for internal teams responsible for operation and publishing of games."
+        details = "Configuration Management Database: rewrote API references and organized them into a well-structured, easy-to-navigate API docs space"
         [[params.experience.list.items]]
-        details = "User guides for content management systems, the player support knowledge base, and more."
+        details = "Internal security policies and configuration standards for PCI DSS compliance."
 
         [[params.experience.list]]
         title = "Technical Writer"
         dates = "Oct 2016 - Feb 2018"
         company = "Altoros"
-        details = "The writer, marketer, and grammarian in a pervasively technician Cloud Foundry R&D team. Projects:"
+        details = "Projects:"
         [[params.experience.list.items]]
-        details = "Content for the [Cloud-Native Transformation](https://www.altoros.com/services/cloud-native-transformation), [Application Replatforming](https://www.altoros.com/services/application-replatforming), [Cloud Foundry Enablement](https://www.altoros.com/services/cloud-foundry-enablement), [Continuous Delivery](https://www.altoros.com/services/continuous-delivery), and [Cloud Foundry Support](https://www.altoros.com/services/cloud-foundry-support) sections on www.altoros.com."
+        details = "IT operations guides and marketing collateral to company’s products (Pivotal Cloud Foundry monitoring solution, [VMware Tanzu tiles](https://www.altoros.com/services/vmware-tanzu-tile-development))."
         [[params.experience.list.items]]
-        details = "[Documentation](https://github.com/pivotal-cf/docs-altoros-heartbeat/tree/d42fb426c16d6813e3467c27643b3ad718767c70/docs-content) and [marketing collateral](/docs/heartbeat) for Altoros Heartbeat—a monitoring solution for Pivotal Cloud Foundry (currently not supported)."
-        [[params.experience.list.items]]
-        details = "Documentation and marketing collateral for [Altoros Elasticsearch](https://tanzu.vmware.com/services-marketplace/data-management/altoros-elasticsearch), [Altoros Log Search](https://tanzu.vmware.com/services-marketplace/monitoring-metrics-and-logging/altoros-log-search), and other Altoros' tiles for VMware Tanzu."
-        [[params.experience.list.items]]
-        details = "Turning streams of consciousness into [blog posts](https://www.altoros.com/blog/enabling-dotnet-core-microservices-with-steeltoe-and-pivotal-cloud-foundry/), pitching conference talks, covering the business parts in sales proposals, and more."
+        details = "Educational and business-oriented materials on cloud-native transformation, containers, microservices, Cloud Foundry Platform-as-a-Service and its commercial distributions, related technologies, and alternatives."
+        
 
         [[params.experience.list]]
         title = "Content Marketing Specialist/Copywriter"
@@ -164,17 +164,17 @@ googleAnalytics = "UA-177082635-1"
 
 
     [params.projects]
-        enable = true
+        enable = false
 
         [[params.projects.list]]
-        title = "Copywriter"
-        meta = "Pandadoc"
-        tagline = "A short-time engagement for writing and rewriting dynamically changed content on www.pandadoc.com (spring of 2018)."
+        title = ""
+        meta = ""
+        tagline = ""
 
         [[params.projects.list]]
-        title = "Devroq.com"
-        meta = "Devroq.com"
-        tagline = "Website for a startup tech company (2016)."
+        title = ""
+        meta = ""
+        tagline = ""
 
 
 
