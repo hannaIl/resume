@@ -1,0 +1,1 @@
+This repository is the source for my resume website. It is built using a Hugo theme by CowboySmall and served on https://hanna-yakush.netlify.app/.

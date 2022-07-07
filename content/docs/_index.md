@@ -1,6 +1,4 @@
 ---
-title: Intro
+title: Portfolio
 
 ---
-
-This is a page.
